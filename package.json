@@ -43,7 +43,6 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-    "homepage": {
-    "http://{dlbltv}.github.io/{budget-tracker}"
-  }
+    "homepage": "http://dlbltv.github.io/budget-tracker"
+
 }
