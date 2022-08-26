@@ -44,6 +44,6 @@
     "gh-pages": "^4.0.0"
   },
     "homepage": {
-    "http://{github-dlbltv}.github.io/{budget-tracker}"
+    "http://{dlbltv}.github.io/{budget-tracker}"
   }
 }
